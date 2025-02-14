@@ -1,13 +1,13 @@
-<h1 align="center">𝐁𝐄𝐋𝐓𝐀𝐇 𝐌𝐃</h1>
+<h1 align="center">JAMES MD</h1>
 <p align="center">  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS +BELTAH-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH;RELEASED+03.01.2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS +JAMES-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JAMES+TECH;RELEASED+03.01.2025" alt="Typing SVG" /></a>
   
   </p>
-    <img alt="BELTAH-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
+    <img alt="JAMES-MD" width="700" height="300" src="https://files.catbox.moe/xw348m.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Beltah254/X-BOT "><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mseewamagift/X-BOT "><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
